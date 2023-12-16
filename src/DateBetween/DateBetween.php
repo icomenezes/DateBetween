@@ -1,5 +1,5 @@
 <?php
-namespace Icomenezes\DateBetween;
+namespace Icomenezes\Plugins\DateBetween;
 
 use Adianti\Control\TAction;
 use Adianti\Core\AdiantiCoreTranslator;
