@@ -1,5 +1,5 @@
 <?php
-namespace Icomenezes\Plugins\DateBetween;
+namespace Icomenezes\DateBetween;
 
 use Adianti\Control\TAction;
 use Adianti\Core\AdiantiCoreTranslator;
@@ -10,7 +10,7 @@ use Adianti\Widget\Form\TEntry;
 use DateTime;
 use Exception;
 
-class TDateBetween extends TEntry implements AdiantiWidgetInterface
+class DateBetween extends TEntry implements AdiantiWidgetInterface
 {
     protected $mask;
     protected $dbmask;
