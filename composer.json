@@ -1,6 +1,6 @@
 {
-    "name": "icomenezes/plugins",
-    "description": "Plugins for Adianti Framework",
+    "name": "icomenezes/datebetween",
+    "description": "Widget date between",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Icomenezes\\Plugins\\": "src"
+            "Icomenezes\\DateBetween\\": "src"
         }
     }
 }
