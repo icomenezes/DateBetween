@@ -14,5 +14,11 @@
         "psr-4": {
             "Icomenezes\\DateBetween\\": "src"
         }
+    },
+    "repositories": {
+        "datebetween": {
+            "type": "vcs",
+            "url": "https://github.com/icomenezes/datebetween.git"
+        }
     }
 }
